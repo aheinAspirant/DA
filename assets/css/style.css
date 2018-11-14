@@ -1325,7 +1325,7 @@ form.ts-labels-inside-input .form-group label.focused,
 
 .ts-item {
     height: 100%;
-    padding-bottom: 1.875rem;
+    /*padding-bottom: 1.875rem;*/ 
 }
 
 .ts-item-content {
@@ -2215,8 +2215,8 @@ E. Template Specific Elements
     }
 
     .ts-block {
-        padding-bottom: 6.25rem;
-        padding-top: 6.25rem;
+        padding-bottom: 3rem;
+        padding-top: 3rem;
     }
 
     .ts-card__image {
@@ -2262,8 +2262,8 @@ E. Template Specific Elements
     }
 
     .ts-block {
-        padding-bottom: 8.125rem;
-        padding-top: 8.125rem;
+        padding-bottom: 3rem;
+        padding-top: 3rem;
     }
 
     .ts-card__image {
@@ -2401,3 +2401,6 @@ E. Template Specific Elements
     }
 }
 
+.navbar-brand img{
+    max-width: 185px;
+}

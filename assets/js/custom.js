@@ -342,7 +342,7 @@ $(document).ready(function($) {
 
     $(window).on("resize", function(){
         clearTimeout(resizeId);
-        resizeId = setTimeout(doneResizing, 250);
+        resizeId = setTimeout(doneResizing, 400);
     });
 
 // On SCROLL actions

@@ -1,0 +1,52 @@
+.advantages .ts-item-body p{
+	color:#ffffff;
+}
+.ts-story-grid:hover {
+    color: #ffffff;
+    cursor: default;
+}
+.ts-story-grid p {
+	display: none;
+}
+.ts-story-grid:hover h3 {
+    display: none;
+}
+.ts-story-grid:hover h6 {
+    color:rgba(255,255,255,0.2);
+}
+.ts-story-grid:hover p {
+    color: #ffffff;
+    display: block;
+    font-weight: 800;
+}
+
+.ts-story-body{
+	padding: 1rem .5rem;
+	height: 175px;
+}
+
+.ts-story-grid:hover .ts-background {
+    background-color: #000000 !important;
+}
+
+.ts-story-grid:hover .ts-background-image {
+    opacity: .4 !important;
+}
+
+.ts-story-grid {
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.ts-story-grid .ts-background, .ts-story-grid .ts-background-image {
+    transition: .3s ease;
+}
+
+.ts-story-grid figure {
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    top: 0;
+    left: 0;
+    padding: 1rem;
+    height: 135px;
+}

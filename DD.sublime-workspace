@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"s",
+				"stylesheet"
+			],
+			[
+				"a",
+				"a93439"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"Sub",
+				"submission"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"c",
+				"C7C7C7"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"IS",
+				"ISAAC_list_view"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"repea",
+				"repeat-y"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"U",
+				"url()"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"progre",
+				"progress-bar"
+			],
+			[
+				"icons",
+				"icons"
+			],
+			[
+				"FFF",
+				"FFFFFF"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"toggle",
+				"toggleDark"
+			],
+			[
+				"act",
+				"activeSort"
+			],
+			[
+				"bkac",
+				"background-color"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fto",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Carrot - DD/DA"
+	],
+	"file_history":
+	[
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/components/typography.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/query/media.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/components/mainframe.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/ni_custom.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/font-awesome.min.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/js/custom.js",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/bootstrap.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/simple-sidebar.css",
+		"/Users/andrew/Downloads/slideout-1.0.1/test/index.html",
+		"/Users/andrew/Downloads/startbootstrap-simple-sidebar-gh-pages/index.html",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/slideout.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/js/slideout.js",
+		"/Users/andrew/Downloads/slideout-1.0.1/dist/slideout.min.js",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/js/main.js",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/style-responsive.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/pace.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/main.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/css/animate.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Pineapple-NI/Reporting Dashboard HTML/base.html",
+		"/Users/andrew/Documents/GitHub/DA/assets/css/style.css",
+		"/Users/andrew/Documents/GitHub/DA/index.html",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Carrot - DD/index-03.html",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Kiwi/index.html",
+		"/Users/andrew/Downloads/splitvcard_package/data-export/contact-form.html",
+		"/Users/andrew/Desktop/hunting.gpx",
+		"/Users/andrew/Downloads/splitvcard_package/data-export/demo-content.xml",
+		"/Users/andrew/Desktop/TasBackup/tas_wp_posts.sql",
+		"/Users/andrew/Desktop/NewtonTalent.Marketing/wp-config.php",
+		"/Users/andrew/Desktop/TasBackup/tas_wp_postmeta.sql",
+		"/private/var/folders/77/jxr2jhmj24q623lysnsh1mk00000gn/T/com.microsoft.Outlook/Outlook Temp/TasBackup/tas_wp_posts.sql",
+		"/Users/andrew/Downloads/bloom/js/jquery.uniform.min.js",
+		"/Users/andrew/Desktop/ah.sql",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Kiwi/blog_masonry.html",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Kiwi/contact.html",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Kiwi/service.html",
+		"/Users/andrew/Desktop/checkbox_crazy.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Kiwi/css/owlcarousel.css",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Kiwi/css/animate.css",
+		"/Users/andrew/Library/Mobile Documents/com~apple~CloudDocs/SSL CERTS/andrewheincom/encodedCert",
+		"/Users/andrew/Library/Mobile Documents/com~apple~CloudDocs/SSL CERTS/andrewheincom/privateKey",
+		"/Users/andrew/Library/Mobile Documents/com~apple~CloudDocs/SSL CERTS/andrewheincom/ IntermediateCertificates",
+		"/Users/andrew/OneDrive - Newton Family of Companies/Projects/Project-Kiwi/css/meanmenu.min.css",
+		"/Users/andrew/Desktop/temp.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/css/camera.css",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/css/animate.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/D4EADEEC-DB33-4B82-9C8B-D55ADFB5028A/functions.php",
+		"/Users/andrew/Desktop/talentChanges.css",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/blog_left_sidebar.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/blog_masonry.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/blog_right_sidebar.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/brand.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/contact.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/error.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/index_2.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/portfolio.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/single_blog.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/single_portfolio.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/service.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/single_service.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/testmonial.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/Skunkworks/website/index.html",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/4620F0C0-9915-415C-BD1A-D077D03911E1/index.php",
+		"/Users/andrew/Downloads/us.sitesucker.mac.sitesucker/consult.themeebit.com/style.css",
+		"/Users/andrew/Downloads/us.sitesucker.mac.sitesucker/consult.themeebit.com/index.html",
+		"/Users/andrew/Desktop/message.html",
+		"/Users/andrew/Desktop/test.html",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/43F47D68-91C4-4A68-9F69-BEB179CA31C3/template-home.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/40D86EE2-10CD-4595-8981-C0172E5BDD7E/eventer.php",
+		"/Applications/AMPPS/www/sandbox.com/wp/.htaccess",
+		"/Users/andrew/Desktop/redirect.txt",
+		"/Users/andrew/Desktop/rss.xml",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/562E8BA6-3BA1-4161-8FFB-6CFEEA267FE5/view.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/3936192F-BC07-4F15-8748-E9985D576C72/single-location-content.php",
+		"/Users/andrew/Desktop/w10 Pro Key",
+		"/Volumes/LifeBoat/Dev/ParkhurstDining.HelloBistro.Mobile/node_modules/react-native/Libraries/BatchedBridge/MessageQueue.js",
+		"/Volumes/LifeBoat/Dev/ParkhurstDining.HelloBistro.Mobile/storybook/stories/Button/Button.js",
+		"/Volumes/LifeBoat/Dev/ParkhurstDining.HelloBistro.Mobile/android/local.properties",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/F1A95CD2-F54B-411D-B54F-79217FDB8FD8/style.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/7E409299-779A-4E64-A0AC-3D9589B3595E/site-reviews.css",
+		"/Users/andrew/Downloads/www.aspirant.com-20180305T110739",
+		"/Users/andrew/Desktop/materialize/index.html",
+		"/Users/andrew/Desktop/masonry-filterable-portfolio/Masonry Filterable Portfolio.json",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/0FD9099A-2D5B-4B1D-ACC4-DAEC09C66805/wp-config.php",
+		"/Volumes/C/Users/andrew/Aspirant/Aspirant People Test - Code/articlearchive/articlearchive.js",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/2EB4FF81-8868-40D7-AE2B-7B8C1A98F298/form-checkout.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/335BD30B-19EE-44E0-840E-86D76E97C60A/form-billing.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/A55ADAE8-D3C5-4C67-BA97-6A1AED1D91DF/wc-cart-functions.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/D7BD19E7-F39C-4037-A318-C4A4D0734C9C/form-shipping.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/1CE8B900-44AF-4156-B674-382C2FDC59BB/wp-config.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/26DA3BF2-0F2F-4300-8C0F-94FB85E698D8/.htaccess",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/7E96F7BC-A666-4A29-B196-5C1BF813E5AD/footer.php",
+		"/Users/andrew/Desktop/noun_3766_cc.svg",
+		"/Volumes/LifeBoat/Creative Cloud Files/Path 22.svg",
+		"/Volumes/LifeBoat/Creative Cloud Files/Path 23.svg",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/6D0860CA-19F2-4091-B412-DA172D56023D/header.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/0C08016A-4E3F-483A-A491-1A6CC8C692E5/header_ns.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/7A4D18A5-1D7B-47FF-BFEC-E50293867DE5/header.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/0D40334D-D112-4B38-9CD4-73F7654F1C1F/header.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/1DF4E858-3F36-4E4A-A702-95241826F7E3/style.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/E6CB87AC-342F-40E7-923D-90C04F8BB40D/site.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/1601031E-C1ED-4459-A47E-7635FC48D64F/base.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/41358FE7-3162-422B-A2E0-A978BDFDC6C5/_style.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/FD301DEC-D4D6-4732-8550-F77F7D8EC3B3/index.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/0538A5F6-43C3-4E1C-84DC-6F6F02E33636/style.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/83578D59-B07B-49B8-A154-EB5ABC6F91BD/style.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/959BBA44-9FA9-44D6-AB08-3B9FA3CFA148/style.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/ACCD16CF-8119-4B33-ADE1-778431FE44FD/style.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/C64D94B6-972C-4CB2-9197-20DEF57FDE5E/location.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/52B91766-B20A-40C2-82FC-5D55E24D80E8/entry-meta.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/D24366CE-F5D9-4260-AD30-944E5416F2DF/entry-meta.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/EB0D2922-7391-431A-9D44-FC922894E807/page-header.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/63A342F1-8C9D-4583-A756-DBAD36355EA9/header.php",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/EF083700-760D-42E8-883F-3610B1460B2F/style.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/3BAAF76C-6523-46D7-A206-31173DDEF252/style.css",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/AEB21A5A-467A-4A4A-BABE-7632B0E72444/wp-config.php",
+		"/Applications/AMPPS/www/sandbox.com/wp/wp-config.php",
+		"/Volumes/LifeBoat/Dev/LAP/develop/node_modules/react-native/Libraries/BatchedBridge/MessageQueue.js",
+		"/Volumes/LifeBoat/Dev/LAP/develop/storybook/stories/Forms/InputFields/index.android.js",
+		"/Users/andrew/Desktop/NativeBase-KitchenSink-RNRF/native-base-theme/components/Picker.android.js",
+		"/Users/andrew/Desktop/NativeBase-KitchenSink-RNRF/native-base-theme/components/Footer.js",
+		"/Users/andrew/Desktop/NativeBase-KitchenSink-RNRF/index.android.js",
+		"/Users/andrew/.hammerspoon/init.lua",
+		"/Volumes/LifeBoat/Creative Cloud Files/LAP/lap_html_test.html",
+		"/Volumes/LifeBoat/Creative Cloud Files/LAP/assets/background.png",
+		"/Applications/AMPPS/www/cc.sandbox.com/wp-config.php",
+		"/Users/andrew/Desktop/2018_email_sig.html",
+		"/Users/andrew/Library/Caches/Cleanup At Startup/Transmit/82E92279-6EEC-4450-91D5-899B3A27215C/functions.php",
+		"/Users/andrew/Desktop/Item_Person_FPS.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DD.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 382.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
